@@ -7,7 +7,7 @@ Example command line to perform uncompression:
 hw9.exe uncompress occupancy.pbm data.ppm offset.offset output.ppm
 Uncompressed the data with this command:
 hw9.exe compare input1.ppm input2.ppm output.pbm
-The input file include:
+The input file includes:
 chair.ppm lightbulb.ppm car_original.ppm
 or: 
 car_hash_data.ppm + car_occupancy + car_offset.offset
